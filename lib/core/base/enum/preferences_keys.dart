@@ -1,0 +1,1 @@
+enum PreferencesKeys { TOKEN, BRANCH_ID, PERIOD_ID, EXPIRATION }
